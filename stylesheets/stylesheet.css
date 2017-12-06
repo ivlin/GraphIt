@@ -1,0 +1,35 @@
+.button, .toggle-button {
+    -fx-background-color: #CCC;
+    -fx-color: white;
+    -fx-padding: 15px 32px;
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-size: 16px;
+    -fx-pref-width: 250px;
+    -fx-margin: 10px 20px;
+}
+
+.label{
+    -fx-padding: 15px 32px;
+}
+
+.toggle-button:selected {
+    -fx-background-color: #A00;
+    -fx-color: white;
+    -fx-padding: 15px 32px;
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-size: 16px;
+    -fx-pref-width: 250px;
+}
+
+.gridpane {
+    -fx-border-color: #444;
+    -fx-border-width: 1px;
+}
+
+.heading {
+    -fx-font-size: 18px;
+}

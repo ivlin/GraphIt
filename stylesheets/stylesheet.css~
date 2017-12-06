@@ -1,0 +1,12 @@
+.button {
+    -fx-background-color: #CCC;
+    -fx-border: 1px solid 1px solid black;
+    -fx-color: white;
+    -fx-padding: 15px 32px;
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-size: 16px;
+    -fx-pref-width: 250px;
+    
+}
