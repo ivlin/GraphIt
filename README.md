@@ -32,6 +32,13 @@ Run the program from the command line with:
 
 `make all run`
 
+or do it manually with:
+
+```
+javac GraphIt.java
+java GraphIt
+```
+
 ### Graph View Functionality
 
 * Add point - click an empty point on the canvas to generate a new point
@@ -46,4 +53,4 @@ Run the program from the command line with:
 * Add point - type the x and y coordinate values of the new point to create a new point
 * Transform all data points - write an expression that can include numerals, "x", and "y" in the function box to set all point's coordinate values
 * Export dataset - type a filename in the box next to the "export to:" button and click the button
-* Open a CSV - import a file where each line is formatted as "x,y" representing the x and y coordinates of each point
+* Import dataset - click the "import a csv" button to select a file where each line is formatted as "x,y" representing the x and y coordinates of each point
