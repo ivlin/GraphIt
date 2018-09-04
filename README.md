@@ -1,6 +1,8 @@
 # GraphIt
 GraphIt - An Interactive Graphing Utility
 
+by Ivan Lin
+
 ## Description
 
 GraphIt is an interactive graphing utility developed in Java. The user can click on the graph and its nodes to add, remove, or move points. There are toggle switches to show the mean, standard deviation, regression line, and other statistical measures about the dataset. There are also options to textually modify the data points so that changes will be reflected in the graph. Batch modifications can be made by applying functions to all the points in the set. 
