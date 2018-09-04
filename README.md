@@ -12,15 +12,11 @@ The idea is to develop a graphing application that is easy to use and particular
 
 ## Development
 
-GraphIt is a web application done in Java using the Canvas,
+GraphIt is a web application done in Java using Canvas and JavaFX.
 
 ## Download
 
 Download it by running:
-
-SSH
-
-`git clone git@github.com:ivlin/GraphIt.git`
 
 HTTPS
 
