@@ -9,6 +9,8 @@ GraphIt is an interactive graphing utility developed in Java. The user can click
 
 The user can also import their own data from a csv file or output the current dataset to a new csv.
 
+![Screenshot](https://github.com/ivlin/GraphIt/blob/master/graphit.png)
+
 ## Motivation
 The idea is to develop a graphing application that is easy to use and particularly aimed at touchscreen or Smartboard applications for classroom use. The original motivation was to allow teachers to display class data in a visually appealling way. Visualizing statistical measures will allow students to more intuitively understand their performance relative to others. Students with "what-if" questions who are curious how things may change if they had done better or worse can instantly make that changes and see the effects relative to means and averages. 
 
